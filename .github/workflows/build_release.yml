@@ -164,3 +164,6 @@ jobs:
         env:
           CONDA_PASSWORD: ${{ secrets.CONDA_PASSWORD }}
           SKA: /proj/sot/ska
+          SYBASE_OCS: OCS-16_0
+          SYBASE: /soft/SYBASE16.0
+          LD_LIBRARY_PATH: /soft/SYBASE16.0/OCS-16_0/lib
