@@ -1,7 +1,7 @@
 ---
 package:
   name: ska3-flight
-  version: 2021.4
+  version: 2021.5
 
 build:
   noarch: generic
@@ -13,12 +13,12 @@ requirements:
     - aca_weekly_report ==0.1.5
     - acdc ==4.7.3
     - acis_taco ==4.2.0
-    - acis_thermal_check ==3.5.0
+    - acis_thermal_check ==3.6.0
     - acisfp_check ==3.5.1
     - acispy ==2.1.0
     - agasc ==4.11.1
     - annie ==0.11.0
-    - backstop_history ==1.4.0
+    - backstop_history ==1.4.1
     - bep_pcb_check ==3.3.1
     - chandra.cmd_states ==3.16.0
     - chandra.maneuver ==3.8.0
